@@ -1,0 +1,10 @@
+.backg{
+  padding:5%;
+  display:flex;
+  min-width: 100vh;
+  min-height: 100vw;
+  background-image:url("https://foter.com/photos/398/nature-shine-tree.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
